@@ -1,3 +1,6 @@
+// edge class for bnb algorithm
+// integer represents the vertex id
+// contains getVertex of an edge, two edge whether equals, whether edge contains certain vertex
 public class BEdge {
     int v1;
     int v2;

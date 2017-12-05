@@ -3,6 +3,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.*;
 
+// helper file to parse graph for bnb and test/run bnb
 public class Solution{
 
     public static BnBGraph parseGraph (String file_path) throws IOException {

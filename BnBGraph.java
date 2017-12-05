@@ -1,6 +1,7 @@
 import java.util.*;
 
-// BnBGraph helper class for BnB
+// BnBGraph class especially for bnb
+// add usedVertex, unusedVertex, coveredEdges and unCoveredEdges for easier bnb application
 
 public class BnBGraph{
     int vertexNum;
